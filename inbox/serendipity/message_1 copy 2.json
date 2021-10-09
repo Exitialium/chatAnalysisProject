@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Jenny Huang"
+    },
+    {
+      "name": "\u00e5\u0090\u00b3\u00e5\u00b0\u0091\u00e8\u008a\u0083 Henry Wu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e5\u0090\u00b3\u00e5\u00b0\u0091\u00e8\u008a\u0083 Henry Wu",
+      "timestamp_ms": 1621880363109,
+      "share": {
+        "link": "https://instagram.com/stories/henryw.0424/2580841981229170755"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Jenny Huang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jennyhuang_qhorecdivw",
+  "magic_words": [
+    
+  ]
+}

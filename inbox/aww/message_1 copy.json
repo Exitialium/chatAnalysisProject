@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "his_bright_side"
+    },
+    {
+      "name": "\u00e5\u0090\u00b3\u00e5\u00b0\u0091\u00e8\u008a\u0083 Henry Wu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e5\u0090\u00b3\u00e5\u00b0\u0091\u00e8\u008a\u0083 Henry Wu",
+      "timestamp_ms": 1610901376568,
+      "content": "\u00ef\u00bc\u009f",
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "his_bright_side",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/his_bright_side_b8bfgipelw",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Phoenix CJ"
+    },
+    {
+      "name": "smeraldo_._._"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "smeraldo_._._",
+      "timestamp_ms": 1589449939487,
+      "content": "~~~",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Phoenix CJ",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/phoenixcj_ppnxpcs7kw",
+  "magic_words": [
+    
+  ]
+}

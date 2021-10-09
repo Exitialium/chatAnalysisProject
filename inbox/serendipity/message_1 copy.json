@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "serendipityyyy______"
+    },
+    {
+      "name": "\u00e5\u0090\u00b3\u00e5\u00b0\u0091\u00e8\u008a\u0083 Henry Wu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e5\u0090\u00b3\u00e5\u00b0\u0091\u00e8\u008a\u0083 Henry Wu",
+      "timestamp_ms": 1612062440185,
+      "content": "\u00e6\u00b2\u0092\u00e9\u0097\u009c\u00e4\u00bf\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "serendipityyyy______",
+      "timestamp_ms": 1612061426621,
+      "content": "\u00e5\u00b0\u00b1\u00e9\u00bb\u009e\u00e9\u0080\u00b2\u00e5\u008e\u00bb\u00e4\u00ba\u0086",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "serendipityyyy______",
+      "timestamp_ms": 1612061421902,
+      "content": "\u00e5\u008f\u0088\u00e6\u009c\u0089\u00e7\u00b4\u0085\u00e5\u009c\u0088\u00e5\u009c\u0088",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "serendipityyyy______",
+      "timestamp_ms": 1612061407499,
+      "content": "\u00e5\u0089\u009b\u00e5\u00a5\u00bd\u00e7\u009c\u008b\u00e5\u0088\u00b0\u00e9\u0080\u0099\u00e5\u0080\u008b\u00e5\u00b8\u00b3\u00e8\u0099\u009f\u00e7\u009a\u0084\u00e6\u008e\u00a8\u00e8\u0096\u00a6",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "serendipityyyy______",
+      "timestamp_ms": 1612061394660,
+      "content": "\u00e5\u009b\u00a0\u00e7\u0082\u00ba\u00e6\u0089\u0093\u00e9\u0096\u008b\u00e6\u0090\u009c\u00e5\u00b0\u008b\u00e5\u00bc\u0095\u00e6\u0093\u008e\u00e7\u009a\u0084\u00e6\u0099\u0082\u00e5\u0080\u0099",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00e5\u0090\u00b3\u00e5\u00b0\u0091\u00e8\u008a\u0083 Henry Wu",
+      "timestamp_ms": 1612023961405,
+      "content": "(\u00e2\u0097\u0090\u00e2\u0080\u00bf\u00e2\u0097\u0091)\u00ef\u00bb\u00bf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00e5\u0090\u00b3\u00e5\u00b0\u0091\u00e8\u008a\u0083 Henry Wu",
+      "timestamp_ms": 1612023938732,
+      "content": "\u00e5\u0081\u00b7\u00e7\u009c\u008b\u00e6\u0088\u0091\u00e9\u0099\u0090\u00e5\u008b\u0095",
+      "share": {
+        "link": "https://instagram.com/stories/henryw.0424/2497915446491361408"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "serendipityyyy______",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/serendipityyyy_______neo6yophyq",
+  "magic_words": [
+    
+  ]
+}
